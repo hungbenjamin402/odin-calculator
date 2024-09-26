@@ -1,0 +1,18 @@
+* {
+    font-family: 'Roboto';
+}
+
+#body {
+    display: flex;
+    justify-content: center;
+}
+
+.display_interactive {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.number_button {
+    color: red;
+}
